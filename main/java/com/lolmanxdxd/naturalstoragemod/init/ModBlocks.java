@@ -23,5 +23,6 @@ public class ModBlocks {
 	public static final Block MAGICAL_TREE_ROOT_BLOCK = new MagicalTreeTrunkBlock("magical_tree_root_block", Material.WOOD);
 	public static final Block MAGICAL_TREE_CORE_BLOCK = new MagicalTreeCoreBlock("magical_tree_core_block", Material.WOOD);
 	public static final Block MAGICAL_TREE_LEAVES_BLOCK = new MagicalTreeLeavesBlock("magical_tree_leaves_block", Material.LEAVES);
+	public static final Block MAGICAL_TREE_LOG_BLOCK = new MagicalTreeTrunkBlock("magical_tree_log_block", Material.WOOD);
 	
 }

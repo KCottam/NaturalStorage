@@ -3,6 +3,7 @@ package com.lolmanxdxd.naturalstoragemod;
 import com.lolmanxdxd.naturalstoragemod.proxy.CommonProxy;
 import com.lolmanxdxd.naturalstoragemod.tabs.NaturalStorageTab;
 import com.lolmanxdxd.naturalstoragemod.util.Reference;
+import com.lolmanxdxd.naturalstoragemod.util.compat.OreDictionaryCompat;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
@@ -31,7 +32,7 @@ public class Main {
 	@EventHandler
 	public static void Init(FMLInitializationEvent event)
 	{
-		
+		OreDictionaryCompat.registerOres();
 	}
 	
 	@EventHandler

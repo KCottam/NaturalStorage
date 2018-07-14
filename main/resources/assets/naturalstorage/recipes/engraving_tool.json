@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  B",
+        " S ",
+        "C  "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "type":"forge:ore_dict",
+            "ore":"cobblestone"
+        },
+        "S":
+        {
+            "type":"forge:ore_dict",
+            "ore":"stickWood"
+        },
+        "C":
+        {
+            "item":"naturalstorage:magical_tree_core_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "naturalstorage:engraving_tool",
+        "count": 1
+    }
+}
