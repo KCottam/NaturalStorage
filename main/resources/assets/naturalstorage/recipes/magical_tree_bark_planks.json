@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "naturalstorage:magical_tree_bark_block"
+    }
+
+    ],
+    
+    "result": 
+    {
+        "item": "naturalstorage:magical_tree_bark_planks_block",
+        "count": 4
+    }
+}

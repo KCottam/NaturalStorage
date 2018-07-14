@@ -1,0 +1,16 @@
+[
+{
+  "modid": "naturalstorage",
+  "name": "Natural Storage",
+  "description": "Adds a modular, tree-based storage solution. Also adds many aesthetic blocks.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LolmanXDXD"],
+  "credits": "Loremaster on youtube for teaching me basics of how to mod. xXSamReyeXx for giving texturing insights.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

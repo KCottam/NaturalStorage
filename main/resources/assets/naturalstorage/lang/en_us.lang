@@ -1,0 +1,13 @@
+//Items
+item.engraving_tool.name=Engraving Tool
+
+//Blocks
+tile.magical_tree_heart_block.name=Magical Tree Heart
+tile.magical_tree_bark_block.name=Magical Tree Bark
+tile.magical_tree_bark_planks_block.name=Magical Tree Bark Planks
+tile.magical_tree_root_block.name=Magical Tree Root
+tile.magical_tree_core_block.name=Magical Tree Core
+tile.magical_tree_leaves_block.name=Magical Tree Leaves
+
+//Tabs
+itemGroup.naturalstoragetab=Natural Storage
