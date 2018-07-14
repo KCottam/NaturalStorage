@@ -1,0 +1,6 @@
+{
+   "parent": "block/leaves",
+   "textures": {
+       "all": "naturalstorage:blocks/magical_tree_leaves_block"
+   }
+}
